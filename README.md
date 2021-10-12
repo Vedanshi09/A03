@@ -12,17 +12,18 @@
    <h1>Terms defination.</h1>
 	<p>
 <b>Branch</b>
-Clone
-Commit
-Fetch
-GIT
-Github
-Merge
-Merge Conflict
-Push
-Pull
-Remote
-Repository
+		
+<b>Clone</b>
+<b>Commit</b>
+<b>Fetch</b>
+<b>GIT</b>
+<b>Github</b>
+<b>Merge</b>
+<b>Merge Conflict</b>
+<b>Push</b>
+<b>Pull</b>
+<b>Remote</b>
+<b>Repository</b>
 	</p>
 
     
