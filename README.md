@@ -24,9 +24,9 @@
 <b>Github</b>
 <p>GitHub Apps provide a service to an entire organization and use their own identity when performing their function. They can be installed directly on organizations and user accounts and granted access to specific repositories. They come with granular permissions and built-in webhooks.</p>
 <b>Merge</b>
-<p></p>
-<b>Merge Conflict</b>
 <p>Merging takes the changes from one branch (in the same repository or from a fork), and applies them into another. This often happens as a "pull request" (which can be thought of as a request to merge), or via the command line. A merge can be done through a pull request via the GitHub.com web interface if there are no conflicting changes, or can always be done via the command line.</p>
+<b>Merge Conflict</b>
+<p>A difference that occurs between merged branches. Merge conflicts happen when people make different changes to the same line of the same file, or when one person edits a file and another person deletes the same file. The merge conflict must be resolved before you can merge the branches.</p>
 <b>Push</b>
 <p>To push means to send your committed changes to a remote repository on GitHub.com. For instance, if you change something locally, you can push those changes so that others may access them. </p>
 <b>Pull</b>
