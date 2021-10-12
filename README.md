@@ -1,5 +1,5 @@
 # A03
-<!DOCTYPE html>
+
 <html>
 <head>
 	<title>Test page</title>
